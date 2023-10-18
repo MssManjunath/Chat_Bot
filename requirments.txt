@@ -38,7 +38,7 @@ matplotlib-inline==0.1.6
 ml-dtypes==0.2.0
 nest-asyncio==1.5.8
 nltk==3.8.1
-numpy==1.26.1
+numpy==1.23.1
 oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging==23.2
