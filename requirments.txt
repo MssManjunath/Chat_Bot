@@ -5,7 +5,8 @@ backcall==0.2.0
 blinker==1.6.3
 cachetools==5.3.1
 certifi==2023.7.22
-charset-normalizer==3.3.0absl-py==2.0.0
+charset-normalizer==2.0.0
+absl-py==2.0.0
 asttokens==2.4.0
 astunparse==1.6.3
 backcall==0.2.0
