@@ -5,14 +5,13 @@ backcall==0.2.0
 blinker==1.6.3
 cachetools==5.3.1
 certifi==2023.7.22
-charset-normalizerabsl-py
+charset-normalizer
 asttokens==2.4.0
 astunparse==1.6.3
 backcall==0.2.0
 blinker==1.6.3
 cachetools==5.3.1
 certifi==2023.7.22
-charset-normalizer==3.3.0
 click==8.1.7
 colorama==0.4.6
 comm==0.1.4
